@@ -7,7 +7,7 @@ A página tem como objetivo apresentar informações sobre a campanha, promover 
 # 📸 Print da página
 
 <h3 align="center">
-   <img alt="Página Setembro Amarelo" title="Setembro Amarelo" src="https://github.com/aliciaeko/Setembro_Amarelo/blob/main/img/print.png">
+   <img alt="Página Setembro Amarelo" title="Setembro Amarelo" src="./print.png">
    <br><br>
    <b>Página informativa desenvolvida com HTML, CSS e JavaScript.</b>
    <br><br>
@@ -30,8 +30,6 @@ O projeto consiste em uma página web informativa sobre o **Setembro Amarelo**, 
 A página foi desenvolvida com uma estrutura simples e organizada, buscando proporcionar uma navegação intuitiva e um visual agradável.
 
 O projeto foi criado principalmente para praticar conceitos de **HTML e CSS**, contando também com um pequeno recurso em **JavaScript** para complementar a interação da página.
-
-**[ACESSE A PÁGINA](#)**
 
 <br>
 
