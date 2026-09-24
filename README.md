@@ -7,7 +7,7 @@ A página tem como objetivo apresentar informações sobre a campanha, promover 
 # 📸 Print da página
 
 <h3 align="center">
-   <img alt="Página Setembro Amarelo" title="Setembro Amarelo" src="./print.png"https://github.com/aliciaeko/setembro_amarelo/blob/main/img/print.png>
+   <img alt="Página Setembro Amarelo" title="Setembro Amarelo" src="./print.png"https://github.com/aliciaeko/setembro_amarelo/blob/main/img/print.png">
    <br><br>
    <b>Página informativa desenvolvida com HTML, CSS e JavaScript.</b>
    <br><br>
